@@ -11,7 +11,7 @@ Official Python SDK for interacting with MizbanCloud CDN and Cloud APIs.
 ### pip
 
 ```bash
-pip install mizbancloud
+pip install mizbancloud-sdk
 ```
 
 ### From source
